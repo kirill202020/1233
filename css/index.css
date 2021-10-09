@@ -47,8 +47,13 @@
 }
 
 .row2{
-    
-
-     height: 70px;
+    height: 70px;
 }
+
+.therddiv{
+    background: pink;
+    width: 900px;
+    height: 450px;
+}
+
 
